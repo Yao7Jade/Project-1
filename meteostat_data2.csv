@@ -1,4 +1,4 @@
-incident_date,tavg,tmin,tmax,prcp,wspd,pres,tsun
+Incident_Date,tavg,tmin,tmax,prcp,wspd,pres,tsun
 1/1/20,2.1,-1.6,5.8,45,10.6,1021.4,
 2/1/20,1.7,-3.2,6.5,32,11.1,1021.8,
 3/1/20,8,3.1,12.9,39,15,1014,
